@@ -22,7 +22,7 @@ const BarraIzq =()=> {
             <span className="font-medium text-gray-800">
               Age:
             </span>
-            <span className="font-medium text-gray-800">24</span>
+            <span className="font-medium text-gray-800">28</span>
           </div>
 
           <div className=" flex flex-row justify-between">
