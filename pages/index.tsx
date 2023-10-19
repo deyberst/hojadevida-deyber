@@ -13,6 +13,7 @@ import { BarraDer } from "@/components/BarraDer";
 import { Estudios } from "@/components/Estudios";
 import { DialogPre } from "@/components/DialogPresentacion";
 import { useState } from "react";
+import { Portfolio } from "@/components/Portfolio";
 
 const Home = () => {
 
@@ -38,10 +39,8 @@ const Home = () => {
         <div className=" h-[42px]">
         </div>
 
-        <section className="debug flex flex-col w-[960px] h-[480px]">
-
-
-        </section>
+        <Portfolio/>
+        
         <div className=" h-[42px]">
         </div>
 

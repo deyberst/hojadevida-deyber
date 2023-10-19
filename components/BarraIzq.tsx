@@ -27,7 +27,7 @@ const BarraIzq =()=> {
 
           <div className=" flex flex-row justify-between">
             <span className="font-medium text-gray-800">
-              Residence:
+              Residencia:
             </span>
             <span className="font-medium text-gray-800">Medellín</span>
           </div>
@@ -50,13 +50,13 @@ const BarraIzq =()=> {
 
         <div className="border-b-2  pb-6">
           <span className="font-semibold text-lg  text-gray-800">Idiomas</span>
-          <Porcentaje idioma="English" porcentaje="100%" />
-          <Porcentaje idioma="Spanish" porcentaje="100%" />
+          <Porcentaje idioma="Inglés" porcentaje="100%" />
+          <Porcentaje idioma="Español" porcentaje="100%" />
 
           <div className=" w-52 py-[2px]">
             <div className=" flex flex-row justify-between  text-gray-400">
               <span>
-                Japanese
+                Japonés
               </span>
               <span>25%</span>
             </div>

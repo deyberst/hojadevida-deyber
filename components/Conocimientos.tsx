@@ -7,14 +7,14 @@ const Conocimientos = () => {
                 <span className=" font-bold text-5xl pb-6  text-gray-800">Mis conocimientos</span>
                 <div className=" w-[960px] h-full flex flex-col justify-center ">
                     <div className="flex flex-row justify-between">
-                        <CardConocimientos Conocimiento="Web Developing" Descripcion="Programacion en React JS" image='/images/webdeveloping.svg'/>
-                        <CardConocimientos Conocimiento="Developer" Descripcion="Programacion en React JS" image='/images/developer.svg'/>
-                        <CardConocimientos Conocimiento="Ui Design" Descripcion="Programacion en React JS" image='/images/uidesign.svg'/>
+                        <CardConocimientos Conocimiento="Web Developing" Descripcion="Programación en React JS" image='/images/webdeveloping.svg'/>
+                        <CardConocimientos Conocimiento="Developer" Descripcion="Programacion en JAVA" image='/images/developer.svg'/>
+                        <CardConocimientos Conocimiento="Ui Design" Descripcion="Diseño UI en Figma" image='/images/uidesign.svg'/>
                     </div>
                     <div className="flex flex-row justify-between py-4">
-                        <CardConocimientos Conocimiento="Fotografía" Descripcion="Programacion en React JS" image='/images/fotografia.svg'/>
-                        <CardConocimientos Conocimiento="Diseño Gráfico" Descripcion="Programacion en React JS" image='/images/disenografico.svg'/>
-                        <CardConocimientos Conocimiento="Diseño de Logos" Descripcion="Programacion en React JS" image='/images/disenologos.svg'/>
+                        <CardConocimientos Conocimiento="Fotografía" Descripcion="Fotografía profesional" image='/images/fotografia.svg'/>
+                        <CardConocimientos Conocimiento="Diseño Gráfico" Descripcion="Diseño general y fotomontaje" image='/images/disenografico.svg'/>
+                        <CardConocimientos Conocimiento="Diseño de Logos" Descripcion="Creación de logos para empresa" image='/images/disenologos.svg'/>
                     </div>
                 </div>
             </div>

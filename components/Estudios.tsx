@@ -56,8 +56,8 @@ const Estudios = () => {
 
                         <div className=" pt-4 flex flex-col">
                             <span className="font-semibold text-gray-800">Técnico en Diseño Gráfico</span>
-                            <span className="pt-5 text-gray-400">Aprendizaje sobre lógica de programación, manejo de lenguajes,
-                                <br></br> análisis y resolución de problemas orientados a la programación.
+                            <span className="pt-5 text-gray-400">Manejo básico de diseño gráfico, creación de piezas publicitarias,
+                                <br></br> creación de logos, fotomontaje e ilustración.
                             </span>
 
                         </div>
