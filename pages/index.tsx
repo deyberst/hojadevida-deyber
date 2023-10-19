@@ -45,8 +45,8 @@ const Home = () => {
         <div className=" h-[42px]">
         </div>
 
-        <footer className="w-[960px] h-[50px] bg-white">
-    
+        <footer className="w-[960px] h-[50px] bg-white text-center flex flex-col">
+          <span className="py-3 text-gray-800">2023 Creación de Deyber Sepulveda</span>
         </footer>
       </main>
       
